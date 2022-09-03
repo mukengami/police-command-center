@@ -1,6 +1,7 @@
 ![Screenshot](screenshot.jpg)
 
-# Open Police
+# police-command-center
+
 
 Open Police is an **open source** web publishing platform for police forces. It makes creating an open, modern, affordable, website to better connect with citizens very easy.
 
